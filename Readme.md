@@ -6,6 +6,6 @@ Base URL: `http://18.236.68.209/api/`
 - GET `/roads`
 - GET `/roads/{roadNumber}`
 - GET `/roads/{roadNumber}/all`
-- GET `/resort`
-- GET `/resort/{resortName}`
-- GET `/resort/{resortName}/all`
+- GET `/resorts`
+- GET `/resorts/{resortName}`
+- GET `/resorts/{resortName}/all`
